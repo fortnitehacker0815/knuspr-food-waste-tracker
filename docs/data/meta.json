@@ -1,10 +1,10 @@
 {
  "shop": "https://www.knuspr.de/rette-lebensmittel",
  "shop_name": "Knuspr",
- "last_run": "2026-11-23T03:14:37+00:00",
- "last_change": "2026-11-23T03:14:37+00:00",
- "products": 111,
- "variants": 111,
- "last_run_events": 51,
+ "last_run": "2026-11-23T13:14:34+00:00",
+ "last_change": "2026-11-23T13:14:34+00:00",
+ "products": 88,
+ "variants": 88,
+ "last_run_events": 116,
  "started": "2026-11-20T12:38:07+00:00"
 }
